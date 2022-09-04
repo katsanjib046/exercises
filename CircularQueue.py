@@ -77,3 +77,4 @@ if __name__ == "__main__":
     print(cQueue.first())
     print(cQueue.dequeue())
     print(cQueue.first())
+
