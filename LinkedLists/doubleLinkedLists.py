@@ -1,3 +1,13 @@
+""" Module: doubleLinkedLists 
+Implementation of a base for doubly linked list along with some of its application.
+Consists of classes:
+_DoublyLinkedBase
+LinkedDeque
+PositionalList
+"""
+
+######### -------- Base for Doubly Linked List -------------- ##############
+
 class _DoublyLinkedBase:
     """A Base class providing a double linked list representation."""
 
@@ -48,3 +58,4 @@ class _DoublyLinkedBase:
         return element
 
 
+############# ------------- Deque with a doubly linked list ----------------- ###################
