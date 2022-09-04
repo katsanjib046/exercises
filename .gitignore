@@ -1,4 +1,5 @@
+$ cat .gitingore
 __pycache__
 .ipynb_checkpoints
 /random/xyzabc.py
-random/*
+/random/*
