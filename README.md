@@ -1,2 +1,2 @@
 # exercises
-Consists of random various exercises
+Consists of implementations of data structures and Algorithms in python.
