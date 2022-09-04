@@ -1,1 +1,5 @@
 xyz.py
+__init__.py
+DataStructures/__init__.py
+DataStructures/LinkedLists/__init__.py
+Algorithms/__init__.py
